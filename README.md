@@ -30,13 +30,13 @@ Secure remote access to a private EC2 instance using AWS Client VPN, ACM, PKI, m
 ### Docker Multi-Web Server Deployment
 Deployed six Docker containers on Amazon EC2 using Apache, Nginx, Linux, custom Docker images, Docker Hub, and Amazon ECR.
 
-## 🏆 Certifications
+## 🏆 Certifications & Learning
 
-- AWS Certified Solutions Architect – Associate
-- Google Cloud Associate Cloud Engineer
-- Oracle Cloud Infrastructure Architect
-- Oracle Cloud Infrastructure AI Foundations
-- Claude Code 101
+- AWS Certified Solutions Architect – Associate (SAA-C03) — **In Progress**
+- Google Cloud Associate Cloud Engineer — **Planned**
+- Oracle Cloud Infrastructure Architect — **Planned**
+- Oracle Cloud Infrastructure AI Foundations — **Planned**
+- Claude Code 101 — Completed
 
 ## 🎯 Current Focus
 
